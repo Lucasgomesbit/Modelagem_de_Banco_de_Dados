@@ -5,7 +5,7 @@ Este projeto foi desenvolvido utilizando **MySQL** e contém duas tabelas princi
 * **Alunos**
 * **Cursos**
 
-##  Tabela Alunos
+## Tabela Alunos
 
 A tabela `Alunos` possui as seguintes informações:
 
