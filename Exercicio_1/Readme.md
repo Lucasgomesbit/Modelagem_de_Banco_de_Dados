@@ -17,7 +17,7 @@ A tabela `Alunos` possui as seguintes informações:
 
 Foram inseridos **10 registros de alunos**.
 
-## 📚 Tabela Cursos
+## Tabela Cursos
 
 A tabela `Cursos` possui as seguintes informações:
 
