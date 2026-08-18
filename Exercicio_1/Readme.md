@@ -5,7 +5,7 @@ Este projeto foi desenvolvido utilizando **MySQL** e contém duas tabelas princi
 * **Alunos**
 * **Cursos**
 
-## 👨‍🎓 Tabela Alunos
+##  Tabela Alunos
 
 A tabela `Alunos` possui as seguintes informações:
 
@@ -29,14 +29,14 @@ A tabela `Cursos` possui as seguintes informações:
 
 Foram inseridos **10 registros de cursos**.
 
-## 🔎 Consultas SQL
+##  Consultas SQL
 
 O projeto também contém consultas SQL para:
 
 * Selecionar alunos que moram em **Brasília**.
 * Selecionar cursos na modalidade **Online**.
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * **MySQL**
 * **SQL**
