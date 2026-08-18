@@ -1,34 +1,44 @@
-Projeto Banco de Dados - Faculdade
-Este projeto foi desenvolvido em MySQL e contém duas tabelas:
+# Projeto Banco de Dados - Faculdade
 
-Alunos
-Cursos
-Tabela Alunos
-A tabela Alunos possui as seguintes informações:
+Este projeto foi desenvolvido utilizando **MySQL** e contém duas tabelas principais:
 
-ID do aluno
-Nome
-Idade
-Cidade
-E-mail
-Foram inseridos 10 registros de alunos.
+* **Alunos**
+* **Cursos**
 
-Tabela Cursos
-A tabela Cursos possui:
+## 👨‍🎓 Tabela Alunos
 
-ID do curso
-Nome do curso
-Carga horária
-Modalidade
-Valor
-Foram inseridos 10 registros de cursos.
+A tabela `Alunos` possui as seguintes informações:
 
-Consultas
+* ID do aluno
+* Nome
+* Idade
+* Cidade
+* E-mail
+
+Foram inseridos **10 registros de alunos**.
+
+## 📚 Tabela Cursos
+
+A tabela `Cursos` possui as seguintes informações:
+
+* ID do curso
+* Nome do curso
+* Carga horária
+* Modalidade
+* Valor
+
+Foram inseridos **10 registros de cursos**.
+
+## 🔎 Consultas SQL
+
 O projeto também contém consultas SQL para:
 
-Selecionar alunos que moram em Brasília.
-Selecionar cursos na modalidade Online.
-Tecnologias utilizadas
-MySQL
-SQL
-GitHub
+* Selecionar alunos que moram em **Brasília**.
+* Selecionar cursos na modalidade **Online**.
+
+## 🛠️ Tecnologias utilizadas
+
+* **MySQL**
+* **SQL**
+* **GitHub**
+
